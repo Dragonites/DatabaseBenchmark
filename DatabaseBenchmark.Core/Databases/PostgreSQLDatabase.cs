@@ -92,7 +92,7 @@
 //            	INSERT INTO {0} VALUES(_id,_symbol,_time,_bid, _ask, _bidsize, _asksize, _provider);
 //              END IF;
 //
-//              COMIT;
+//              COMMIT;
 //              
 //              RETURN 0;
 //            END
